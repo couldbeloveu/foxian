@@ -341,7 +341,7 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 .article-content{font-size:15px;line-height:25px;word-wrap:break-word;}
 .article-content img{margin: 5px 0; display:block;max-width:100%;height:auto}
 .article-content h3, .article-content h4, .article-content h5{padding:0 0;margin:20px 0;color: #555;font-weight:bold;}
-.article-content h1,.article-content h2{font-weight:700;margin:20px 0;border-bottom:1px solid #eee;padding-bottom:8px}
+.article-content h1, .article-content h2{font-weight:700;margin:20px 0;border-bottom:1px solid #eee;padding-bottom:8px}
 .article-content h1{font-size:20px;font-weight:700;background-color:#ececec;border-bottom:0 solid #12b4f0;padding:6px 12px;border-left:6px solid #FC3E3F;margin:12px 0}
 .article-content h2{font-size:18px;font-weight:700;background-color:#ececec;border-bottom:0 solid #12b4f0;padding:6px 12px;border-left:6px solid #00B7F1;margin:12px 0}
 .article-content h3{font-size:16px;font-weight:700;background-color:#ececec;border-bottom:0 solid #12b4f0;padding:6px 12px;border-left:6px solid #83CDAD;margin:12px 0}
