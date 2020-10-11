@@ -2645,6 +2645,7 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
 .panel-darkblue>.panel-heading+.panel-collapse>.panel-body{border-top-color:#17a2b8}
 .post-content .panel-darkblue a{color:#17a2b8}
 
+/* vpsmm warning text========================================== */
 .tishi{position:relative;padding:.75rem 1.25rem;margin-bottom:1rem;border:1px solid transparent;border-radius:.25rem}
 .tishi-heading{color:inherit}.tishi-link{font-weight:700}
 .tishi-dismissible{padding-right:4rem}
