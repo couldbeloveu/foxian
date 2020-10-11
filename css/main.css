@@ -454,9 +454,9 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 .comment #commentform{margin-bottom:0}
 .commentnew .comt-m{margin-bottom:5px}
 .commentlist{padding:0;list-style:none;margin:0}
-.{width:45px;height:45px;background-color:#FFF;float:left;display:inline;position:relative;margin-top: 10px;}
+.comt-avatar{width:45px;height:45px;background-color:#FFF;float:left;display:inline;position:relative;margin-top: 10px;}
 .commentnew .comt-avatar{margin-top: 0;}
-.comt-avatar .avatar{display:block;border-radius:45%;width:45x;height:50px}
+.comt-avatar .avatar{display:block;border-radius:50%;width:45px;height:45px}
 .comt-main{margin-left:46px;margin-right:60px;color:#888;line-height:22px;position:relative;font-size: 14px;padding: 0 0 15px;word-wrap: break-word;max-height: 300px;overflow: hidden;}
 .comt-main p{margin-top: 15px;margin-bottom: 0;}
 .comt-author{margin-right: 10px;}
@@ -2601,7 +2601,7 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
 
 
 /* vpsmmfukuang ============================================================= */
-.col-md-6:nth-child(odd){padding-right:5px;}
+.col-md-6:{padding-right:5px;}
 .post-content .panel a{text-decoration:none}
 .panel{margin-bottom:10px;margin-top:10px;background-color:#fff;border:1px solid transparent;border-radius:4px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);box-shadow:0 1px 1px rgba(0,0,0,.05)}
 .panel ul{margin:0 0 0 25px}
@@ -2615,6 +2615,10 @@ button.swiper-pagination-bullet { border: none; margin: 0; padding: 0; -webkit-b
 .panel-gray>.panel-heading{color:#333;background-color:#f6f6f6;border-color:#eee}
 .panel-gray>.panel-heading+.panel-collapse>.panel-body{border-top-color:#eee}
 .panel-gray>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#eee}
+.panel-skyblue{border-color:#BCE8F1}
+.panel-skyblue>.panel-heading{color:#31708f;background-color:#d1ecf1;border-color:#bee5eb}
+.panel-skyblue>.panel-heading+.panel-collapse>.panel-body{border-top-color:#bee5eb}
+.panel-skybule>.panel-footer+.panel-collapse>.panel-body{border-bottom-color:#bee5eb}
 .panel-darksea{border-color:#d6e9c6}
 .panel-darksea>.panel-heading{color:#3c763d;background-color:#dff0d8;border-color:#d6e9c6}
 .panel-darksea>.panel-heading+.panel-collapse>.panel-body{border-top-color:#d6e9c6}
