@@ -18,7 +18,7 @@ a:focus{outline: 0;text-decoration: none;}
 filter:alpha(opacity=85);}
 .btn-danger{background-color: #FF5E52;border-color: #FF5E52;}
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .dropdown-toggle.btn-danger{background-color: #EF4639;border-color: #EF4639;}
-
+/** 野鹅时长使用**//
 .label{border-radius: 2px;font-weight: normal;padding: 0 3px;}
 .label-primary{background-color: #45B6F7;}
 
