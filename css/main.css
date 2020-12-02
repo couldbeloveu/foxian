@@ -1878,9 +1878,9 @@ pre.prettyprint.linenums ol li {
 	.article-content p,
 	.article-content h2,
 	.article-content h3,
-	.article-content h4,
+	.article-content h4{margin-bottom: 10px;}
 /*.article-content h2{font-size: 16px;font-weight: bold;margin: 15px -10px 15px -10px;line-height: 18px;padding-left: 10px;border-left:none} */
-	.article-content ul, .article-content ol{margin-left:20px;}
+	.article-content ul, .article-content ol{margin-left:10px;}
 	
 	.content{min-height: 200px;}
 
