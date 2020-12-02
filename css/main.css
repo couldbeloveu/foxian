@@ -365,7 +365,7 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 .article-content .wp-caption p{margin-bottom: 10px;text-indent: 0;}
 .article-content .wp-caption.alignnone{text-align: center;}
 .article-content .wp-caption:hover .wp-caption-text{color: #45B6F7;}
-.article-content a{text-decoration:underline;color: #45B6F7;}
+.article-content a{text-decoration:underline;color: #337EC4;}
 .article-content a:hover{color: #FF5E52;}
 .article-content pre,.comment pre{margin:20px 0;font:12px/20px 'courier new';background:#272822;padding:10px 15px;color:#F8F8D4;border:none}
 .article-content blockquote{position:relative;padding:.75rem 1.25rem;margin-bottom:1rem;border:1px solid transparent;border-radius:.25rem;olor:#1b1e21;background-color:#d6d8d9;border-color:#c6c8ca}
