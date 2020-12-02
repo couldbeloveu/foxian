@@ -1,7 +1,7 @@
 body{font-family: 'Microsoft Yahei';color: #555;}
 ul,ol,dl,dt,dd{margin: 0;padding: 0}
 ul{list-style: none;}
-table{font-size: 12px;}
+table{font-size: 15px;}
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{vertical-align: middle;padding: 10px;border-top-color: #eee;}
 a{color: #666;}
 a:hover{color: #45B6F7;text-decoration: none;}
