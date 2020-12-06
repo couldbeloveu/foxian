@@ -395,6 +395,13 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 .gallery .gallery-item dd{color: #999 !important;margin-top: 2px !important;}
 
 
+@media (max-width: 640px) {
+table{font-size: 14px;line-height: 22px;}
+.article-content table{border-top:solid 1px #ddd;border-left:solid 1px #ddd;width:100%;margin-bottom:20px}
+.article-content table th{background-color:#f9f9f9;text-align:center}
+.article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:4px 4px}
+}
+
 /* article tags
  * ====================================================
 */
