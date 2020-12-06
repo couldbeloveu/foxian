@@ -399,7 +399,7 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 table{font-size: 15px;line-height: 24px;}
 .article-content table{border-top:solid 1px #ddd;border-left:solid 1px #ddd;width:100%;margin-bottom:20px}
 .article-content table th{background-color:#f9f9f9;text-align:center}
-.article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:5px 6px}
+.article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:6px 6px}
 }
 
 /* article tags
