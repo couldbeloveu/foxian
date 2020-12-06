@@ -18,7 +18,7 @@ a:focus{outline: 0;text-decoration: none;}
 filter:alpha(opacity=85);}
 .btn-danger{background-color: #FF5E52;border-color: #FF5E52;}
 .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .dropdown-toggle.btn-danger{background-color: #EF4639;border-color: #EF4639;}
-/** 野鹅时长使用**//
+/** 野鹅时长使用**/
 .label{border-radius: 2px;font-weight: normal;padding: 0 3px;}
 .label-primary{background-color: #45B6F7;}
 
@@ -338,7 +338,7 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 .article-meta{font-size:12px;color:#999;}
 .article-meta .item{margin-right:20px;}
 
-.article-content{font-size:16px;line-height:26px;word-wrap:break-word;}
+.article-content{font-size:16px;line-height:28px;word-wrap:break-word;}
 .article-content img{margin: 5px 0; display:block;max-width:100%;height:auto}
 .article-content h3, .article-content h4, .article-content h5{padding:0 0;margin:10px 0;color: #555;font-weight:bold;}
 .article-content h1, .article-content h2{font-weight:700;margin:10px 0;border-bottom:1px solid #eee;padding-bottom:8px}
@@ -396,10 +396,10 @@ body{background:#e8e8e8 url(https://cdn.jsdelivr.net/gh/couldbeloveu/foxian/css/
 
 
 @media (max-width: 640px) {
-table{font-size: 14px;line-height: 22px;}
+table{font-size: 15px;line-height: 24px;}
 .article-content table{border-top:solid 1px #ddd;border-left:solid 1px #ddd;width:100%;margin-bottom:20px}
 .article-content table th{background-color:#f9f9f9;text-align:center}
-.article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:4px 4px}
+.article-content table td,.article-content table th{border-bottom:solid 1px #ddd;border-right:solid 1px #ddd;padding:5px 6px}
 }
 
 /* article tags
